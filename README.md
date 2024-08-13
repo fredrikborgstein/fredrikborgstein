@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fredrik and I'm a 32 year old male, from Bergen, Norway</h2>
+<h2 align="left">Hi 👋! My name is Fredrik and I'm from Bergen 🇳🇴.</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">Hello World!!<br><br>Currently studying Frontend Development at Noroff University College, as well as bachelor of Software Development at IU University.<br><br>Father of two, husband, and pet owner.</p>
+<p align="center">Currently studying Frontend Development at Noroff University College, as well as bachelor of Software Development at IU University.<br><br>Father of two, husband, and pet owner.</p>
 
 ###
 
@@ -45,8 +45,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fredrikborgstein/fredrikborgstein/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fredrikborgstein&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
