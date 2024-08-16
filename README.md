@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fredrik and I'm from Bergen 🇳🇴.</h2>
+<h2 align="left">Hi 👋! My name is Fredrik and I'm from Bergen🇳🇴.</h2>
 
 ###
 
