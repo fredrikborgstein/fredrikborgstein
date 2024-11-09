@@ -28,7 +28,6 @@
 
 ###
 
-<img align="right" height="150" src="https://utfs.io/f/333c31be-9c5f-4d17-be89-391710a85208-7kqt4d.jpg"  />
 
 ###
 
