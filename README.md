@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">Currently studying Frontend Development at Noroff University College, as well as bachelor of Software Development at IU University.<br><br>Father of two, husband, and pet owner.</p>
+<p align="center">Currently studying Frontend Development at Noroff University College. Studied Network and IT Security at Noroff University College.<br><br>Father of two, husband, and pet owner.<br> Loves working on hobby projects, and hope to launch something cool soon!</p>
 
 ###
 
