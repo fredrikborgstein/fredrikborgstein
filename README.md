@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fredrik and I'm from Bergen🇳🇴.</h2>
+<h2 align="left">Hello 👋! My name is Fredrik and I'm from Bergen🇳🇴.</h2>
 
 ###
 
@@ -25,9 +25,6 @@
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="java logo"  />
 </div>
-
-###
-
 
 ###
 
