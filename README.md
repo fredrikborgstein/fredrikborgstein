@@ -32,14 +32,12 @@
 
 <p align="center">Currently studying Digital Assurance and Security Management at Noroff University College. <br><br>Father of two, husband, and pet owner.<br> Loves working on hobby projects, and hope to launch something cool soon!</p>
 
-<ul align="center" style="list-style-type: none;">
-  <li>
-    Studied Network and IT Security - Higher Vocational Degree
-  </li>
-  <li>
-    Studied Frontend Development - 1 year
-  </li>
-</ul>
+<p align="center">
+  Studied Network and IT Security - Higher Vocational Degree
+</p>
+<p align="center">
+  Studied Frontend Development - 1 year
+</p>
 
 ###
 
