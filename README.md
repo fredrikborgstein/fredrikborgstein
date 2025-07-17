@@ -32,7 +32,7 @@
 
 <p align="center">Currently studying Digital Assurance and Security Management at Noroff University College. <br><br>Father of two, husband, and pet owner.<br> Loves working on hobby projects, and hope to launch something cool soon!</p>
 
-<ul>
+<ul align="center">
   <li>
     Studied Network and IT Security - Higher Vocational Degree
   </li>
